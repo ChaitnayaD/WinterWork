@@ -1,0 +1,242 @@
+.main-container {
+  width: 1146px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background-color: #ffffff;
+}
+
+.Topicrect {
+  width: 23px;
+  height: 48px;
+  left: 487px;
+
+  background: #407bff;
+  transform: rotate(-180deg);
+}
+.topic {
+  width: 161px;
+  height: 36px;
+  left: 206px;
+  position: absolute;
+  top: 25px;
+  bottom: 5px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.session-head {
+  width: 89px;
+  height: 30px;
+  left: 231px;
+  top: 90px;
+  bottom: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+  position: absolute;
+}
+.session-subhead {
+  width: 203px;
+  height: 30px;
+  left: 310px;
+  top: 90px;
+  position: absolute;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  display: flex;
+  align-items: center;
+
+  color: #c4c4c4;
+}
+.Topicrect {
+  width: 23px;
+  height: 48px;
+  left: 517px;
+
+  background: #407bff;
+  transform: rotate(-180deg);
+}
+.topic {
+  width: 161px;
+  height: 36px;
+  left: 226px;
+  position: absolute;
+  top: 25px;
+  bottom: 5px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+.record {
+  width: 173px;
+  height: 48px;
+  left: 718px;
+  top: 85px;
+  position: absolute;
+  background: #407bff;
+  border-radius: 8px;
+  text-align: center;
+}
+.record-text {
+  width: 93px;
+  height: 27px;
+  left: 1200px;
+  top: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: white;
+  line-height: 27px;
+}
+.record-img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 10px;
+  right: 140px;
+}
+
+.tab {
+  float: left;
+
+  background-color: #f1f1f1;
+  width: 767px;
+  height: 54px;
+  left: 251px;
+  top: 150px;
+  position: absolute;
+}
+.tab button {
+  display: block;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: black;
+  border: 1px solid rgb(255, 253, 253);
+
+  outline: blue;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 767px;
+  height: 54px;
+  left: 551px;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+.tablinks {
+  border-radius: 1px solid blue;
+}
+
+.session-head-2 {
+  width: 89px;
+  height: 30px;
+  left: 231px;
+  top: 420px;
+  bottom: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+  position: absolute;
+}
+.session-subhead-2 {
+  width: 203px;
+  height: 30px;
+  left: 310px;
+  top: 420px;
+  position: absolute;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  display: flex;
+  align-items: center;
+
+  color: #c4c4c4;
+}
+
+.record-2 {
+  width: 173px;
+  height: 48px;
+  left: 718px;
+  top: 405px;
+  position: absolute;
+  background: #407bff;
+  border-radius: 8px;
+  text-align: center;
+}
+.record-text-2 {
+  width: 93px;
+  height: 27px;
+  left: 1200px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: white;
+  line-height: 27px;
+}
+.record-img-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.tab-2 {
+  float: left;
+
+  background-color: #f1f1f1;
+  width: 767px;
+  height: 54px;
+  left: 251px;
+  top: 470px;
+  position: absolute;
+}
+.tab-2 button {
+  display: block;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: black;
+  border: 1px solid rgb(255, 253, 253);
+
+  outline: blue;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 767px;
+  height: 54px;
+  left: 551px;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+.tablinks {
+  border-radius: 1px solid blue;
+}
